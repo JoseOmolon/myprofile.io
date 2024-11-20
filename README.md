@@ -18,4 +18,5 @@ Welcome to the first version of my portfolio website, hosted at [joseomolon.gith
 - **CSS3**
 - **JavaScript**
 - **Responsive Design Principles**
+- **GitHub Pages** for deployment
 
