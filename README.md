@@ -4,3 +4,4 @@ Welcome to the first version of my portfolio website, hosted at [joseomolon.gith
 
 ---
 ## 🌟 Features
+- **Responsive Design**: Optimized for viewing on desktops, tablets, and mobile devices.
