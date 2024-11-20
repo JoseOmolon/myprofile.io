@@ -10,3 +10,6 @@ Welcome to the first version of my portfolio website, hosted at [joseomolon.gith
 - **Project Showcase**: Displays the projects I’ve built, including descriptions, technologies used, and links to live demos or repositories.
 - **Contact Section**: Makes it easy for potential employers and collaborators to get in touch with me.
 
+---
+
+## 🛠️ Technologies Used
