@@ -16,4 +16,5 @@ Welcome to the first version of my portfolio website, hosted at [joseomolon.gith
 
 - **HTML5**
 - **CSS3**
+- **JavaScript**
 
