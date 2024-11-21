@@ -26,6 +26,9 @@ Welcome to the first version of my portfolio website, hosted at [joseomolon.gith
 To view the live version of the website, visit:  
 [https://joseomolon.github.io/myprofile.io/](https://joseomolon.github.io/myprofile.io/)
 
+
+
+
 If you'd like to run the project locally, follow these steps:
 
 ### 1. Clone the Repository
