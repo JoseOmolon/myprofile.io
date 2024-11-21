@@ -54,5 +54,16 @@ myprofile.io/
 ├── assets/           # Images, icons, and other assets
 └── README.md         # Project documentation
 ```
+---
+Made with ❤️ by Jose Omolon
+
+```markdown
+
+### Tips:
+- Replace placeholders like `your-email@example.com` and `linkedin.com/in/your-profile` with your actual contact details.
+- Update the file as you enhance your portfolio or add features.
+
+```
+
 
 
