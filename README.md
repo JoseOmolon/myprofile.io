@@ -20,3 +20,4 @@ Welcome to the first version of my portfolio website, hosted at [joseomolon.gith
 - **Responsive Design Principles**
 - **GitHub Pages** for deployment
 
+---
