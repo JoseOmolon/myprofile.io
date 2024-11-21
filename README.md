@@ -22,3 +22,6 @@ Welcome to the first version of my portfolio website, hosted at [joseomolon.gith
 
 ---
 ## 🚀 Getting Started
+
+To view the live version of the website, visit:  
+[https://joseomolon.github.io/myprofile.io/](https://joseomolon.github.io/myprofile.io/)
