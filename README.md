@@ -21,3 +21,4 @@ Welcome to the first version of my portfolio website, hosted at [joseomolon.gith
 - **GitHub Pages** for deployment
 
 ---
+## 🚀 Getting Started
