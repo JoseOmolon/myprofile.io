@@ -45,4 +45,14 @@ You can directly open index.html in any browser to view the project.
 
 ---
 
+📂 Project Structure
+```bash
+myprofile.io/
+├── index.html        # Main HTML file
+├── style.css         # Styling for the website
+├── script.js         # JavaScript functionality (if applicable)
+├── assets/           # Images, icons, and other assets
+└── README.md         # Project documentation
+```
+
 
