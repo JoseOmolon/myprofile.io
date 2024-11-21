@@ -34,8 +34,10 @@ If you'd like to run the project locally, follow these steps:
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/joseomolon/myprofile.io.git
+```
 
 2. Navigate to the Project Folder
-bash
-Copy code
+```bash
+cd myprofile.io
+```
 
