@@ -40,4 +40,9 @@ git clone https://github.com/joseomolon/myprofile.io.git
 ```bash
 cd myprofile.io
 ```
+3. Open the index.html File in Your Browser
+You can directly open index.html in any browser to view the project.
+
+---
+
 
