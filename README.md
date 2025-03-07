@@ -12,7 +12,7 @@ Welcome to the first version of my portfolio website, hosted at [joseomolon.gith
 
 ---
 
-## 🛠️ Technologies Used 12345
+## 🛠️ Technologies Used 1234
 
 - **HTML5**
 - **CSS3**
