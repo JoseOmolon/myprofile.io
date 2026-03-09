@@ -1,6 +1,6 @@
 # Contributor Covenant Code of Conduct
 
-## Our Pledge 12345
+## Our Pledge 1234
 
 We as members, contributors, and leaders pledge to make participation in our
 community a harassment-free experience for everyone, regardless of age, body
